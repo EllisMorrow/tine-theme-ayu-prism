@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.ellismorrow.theme.ayu",
+  "name": "Ayu · Prism",
+  "version": "0.1.1",
+  "apiVersion": "0.2",
+  "description": "A paired Ayu Light and Ayu Dark palette for Tine, balancing bright paper, quiet graphite surfaces and warm amber accents.",
+  "author": "EllisMorrow",
+  "license": "MIT",
+  "source": "https://github.com/EllisMorrow/tine-theme-ayu-prism",
+  "modes": {
+    "light": {
+      "--ls-page-inline-code-color": "#5C6166",
+      "--ls-primary-background-color": "#FCFCFC",
+      "--ls-tertiary-background-color": "#EDEFF1",
+      "--ls-block-bullet-color": "#8A9199",
+      "--ls-active-primary-color": "#FA8D3E",
+      "--ls-page-mark-color": "#5C6166",
+      "--ls-guideline-color": "rgba(92, 97, 102, 0.22)",
+      "--ls-link-text-color": "#24668D",
+      "--ls-block-highlight-color": "#E5E8EA",
+      "--ls-quaternary-background-color": "#E2E5E8",
+      "--ls-link-text-hover-color": "#3E4B59",
+      "--ls-selection-background-color": "#D2D4D8",
+      "--ls-page-inline-code-bg-color": "#EDEFF1",
+      "--ls-page-mark-bg-color": "#F8E6C6",
+      "--ls-primary-text-color": "#5C6166",
+      "--ls-a-chosen-bg": "#E5E8EA",
+      "--ls-tag-text-color": "#5C7418",
+      "--ls-title-text-color": "#404447",
+      "--ls-border-color": "rgba(92, 97, 102, 0.18)",
+      "--ls-secondary-text-color": "#626A70",
+      "--ls-secondary-background-color": "#F3F4F5"
+    },
+    "dark": {
+      "--ls-page-inline-code-color": "#E6E1CF",
+      "--ls-primary-background-color": "#10141c",
+      "--ls-tertiary-background-color": "#131721",
+      "--ls-block-bullet-color": "#828C99",
+      "--ls-active-primary-color": "#FFB454",
+      "--ls-page-mark-color": "#FFB454",
+      "--ls-guideline-color": "rgba(191, 189, 182, 0.2)",
+      "--ls-link-text-color": "#59C2FF",
+      "--ls-block-highlight-color": "#272D38",
+      "--ls-quaternary-background-color": "#1A1F29",
+      "--ls-link-text-hover-color": "#E6E1CF",
+      "--ls-selection-background-color": "#273747",
+      "--ls-page-inline-code-bg-color": "#1A1F29",
+      "--ls-page-mark-bg-color": "#3E3627",
+      "--ls-primary-text-color": "#BFBDB6",
+      "--ls-a-chosen-bg": "#272D38",
+      "--ls-tag-text-color": "#AAD94C",
+      "--ls-title-text-color": "#E6E1CF",
+      "--ls-border-color": "rgba(191, 189, 182, 0.14)",
+      "--ls-secondary-text-color": "#ABB0B6",
+      "--ls-secondary-background-color": "#0A0E14"
+    }
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/EllisMorrow/tine-theme-ayu-prism/f5fc1e392711181126eeeb9e216d6bcba23394d9/docs/ayu-dark.png",
+    "https://raw.githubusercontent.com/EllisMorrow/tine-theme-ayu-prism/f5fc1e392711181126eeeb9e216d6bcba23394d9/docs/ayu-light.png"
+  ],
+  "portedFrom": {
+    "ecosystem": "other",
+    "name": "Ayu Light / Ayu Dark",
+    "source": "https://github.com/ayu-theme/ayu-colors",
+    "revision": "d461f02983546636bc6e1e0c48190fdb74036426",
+    "license": "MIT",
+    "authors": [
+      "Konstantin Pschera"
+    ],
+    "relationship": "behavioral-port"
+  },
+  "aiDevelopment": "primary"
+}
