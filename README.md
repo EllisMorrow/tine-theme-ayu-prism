@@ -15,6 +15,8 @@
 
 Ayu Light and Ayu Dark meet in one Tine theme: clean near-white space by day, deep charcoal by night, with warm orange and clear blue-green accents.
 
+Explore the full [Prism theme gallery](https://github.com/martinkoutecky/tine/discussions/786) to compare all 29 themes in light and dark modes.
+
 ### Dark mode
 
 ![Ayu · Prism in Tine dark mode](docs/ayu-dark.png)

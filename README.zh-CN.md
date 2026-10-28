@@ -8,6 +8,8 @@
 
 Ayu Light 与 Ayu Dark 汇成一套 Tine 主题：白日是清亮近白的留白，夜晚沉入深石墨色，并以暖橙、蓝绿点亮细节。
 
+在 [Prism 主题画廊](https://github.com/martinkoutecky/tine/discussions/786)中，可以直观比较全部 29 个主题的浅色与深色效果。
+
 ### 深色模式
 
 ![Ayu · Prism 深色模式实拍](docs/ayu-dark.png)
